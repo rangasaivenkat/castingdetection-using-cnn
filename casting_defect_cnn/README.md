@@ -157,7 +157,7 @@ The model correctly classified 714 out of 715 test images. One non-defective ima
 Clone the repository:
 
 ```
-git clone <>
+git clone https://github.com/rangasaivenkat/castingdetection-using-cnn.git
 cd casting_defect_cnn
 
 ```
